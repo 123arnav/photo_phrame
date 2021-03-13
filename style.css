@@ -1,0 +1,19 @@
+
+h1
+{
+  font-size: 45px !important;
+font-family: 'EB Garamond', serif;
+width: 100%;
+background-color: blue;
+height: 100;
+margin-top: 0%;
+margin-bottom: 0%;
+color: aqua;
+padding-top: 16;
+}
+canvas {
+    border: 2px solid black;
+}
+body{
+    background-color: aqua;
+}
